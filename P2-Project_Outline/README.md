@@ -7,12 +7,20 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Our app will support the creation, editing, sharing and communication around a family tree. Some of our members have personal experience trying to research and build a tree with family members. This program will facilitate collaboration and produce a nice diagram to share.
 ### Features
-Include Features here
+User login: Users will be able to create accounts and log in to the application. Each user will have a profile page. A super user(s) will control access to family trees.
+Create/Edit Person: Approved users will be able to create or edit entries in a family database. Alerts about edits will be posted to the bulletin board for the family.
+View/Share Tree: A family tree graphic will show the connections between family members and allow for exporting graphics for sharing.
+Communicate: Each family has a bulletin board where users can asks questions of their community and see what updates others have made in the database.
 ### Technologies
-Include Technologies here
+Java
+Spring Boot
+MySQL
+Hibernate
+Thymeleaf templates
 ### What I'll Have to Learn
-Include what you will need to learn here
+I will be handling the site UX/UI. I will have to gain a better understanding of HTML, CSS, THYMELEAF and possibly other technologies depending on what the website requires for completion. I will also be working on the User Authentication / Role feature which will require a better understanding of MySQL database.
 ### Project Tracker
 Link to your Trello board here
+https://trello.com/b/4YeLWqGq/family-tree
